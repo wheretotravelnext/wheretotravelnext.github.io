@@ -10,8 +10,7 @@ body{
 	font-size: 10px;
 	}
 img{
-	max-width: 100px;
-    max-height: 150px;
+	size: cover;
 }
 
     
