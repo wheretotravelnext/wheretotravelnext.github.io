@@ -1,0 +1,23 @@
+body{color: #BCBEC0;
+	font-style: helvetica,sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+text-align: center
+}
+h1{color: #555;
+	font-size: 14px;
+}
+p{
+
+}
+
+img{size: cover;
+
+}
+#slogan{color: #555;
+font-size: 10px;
+font-style: italic;
+}
+hr{
+	width: 200px;
+}
