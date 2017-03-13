@@ -1,0 +1,33 @@
+@import(link href="https://fonts.googleapis.com/css?family=Poppins:300,400" rel="stylesheet")
+
+h1{
+	color: #555;
+	font-size: 24px;
+	font-family: 'Poppins', sans-serif;
+}
+h3{
+	color: #BCBEC0;
+	font-size: 20px;
+
+	}
+body{
+	text-align: center;
+	color: #D1D2D4;
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	}
+img{
+	width: 700;
+	height: 100%;
+	margin: 30px;
+}
+
+    
+#slogan{color: #BCBEC0;
+font-size: 18px;
+
+}
+hr{
+	width: 200px;
+
+}
