@@ -35,17 +35,14 @@ body{
 	font-size: 14px
 }
 .menu li a:hover{
-	background: 
-	url("./images/pointing_hand.png") no-repeat left center;
-	background-size: contain;
-	width: 50px;
-	height: 10px
-
+	background: 10%
+	url("./images/pointing_hand.png") no-repeat left center
 }
 img{
 	width: 200px;
 	height: 100%;
 	margin: 100px;
+	margin-bottom: 0px;
 }
 
     
