@@ -22,6 +22,7 @@ body{
 	padding: 0;
 	margin:0;
 	float: right;
+	list-style: none;
 }
 .menu a{
 	display: block;
