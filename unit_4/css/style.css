@@ -12,21 +12,16 @@ body{
 	font-family: 'Poppins', sans-serif;
 	font-size: 16px;
 	}
-#menu ul{
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	color: #BCBEC0;
 }	
 .menu li{
 	padding: 0;
 	margin:0;
-	float: left;
+	float: right;
 }
 .menu a{
 	display: block;
 	width: 80px;
-	border-bottom: 1px dotted #555;
+	border: 0;
 	text-decoration: none;
 	color: #555;
 	padding: 0px 0px 0px 20px;
