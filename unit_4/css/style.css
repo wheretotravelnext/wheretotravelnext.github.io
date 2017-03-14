@@ -10,7 +10,7 @@ body{
 	text-align: center;
 	color: #D1D2D4;
 	font-family: 'Poppins', sans-serif;
-	font-size: 12px;
+	font-size: 16px;
 	}
 #menu ul{
 	margin: 0;
@@ -35,11 +35,12 @@ body{
 	font-size: 14px
 }
 .menu li a:hover{
-	background: url(http://www.i4at.org/i4atgif/pointing_hand.png) no-repeat left center;
-
+	background: 
+	url("./images/pointing_hand.png") no-repeat left center
+padding: 10px 30px
 }
 img{
-	width: 500;
+	width: 200;
 	height: 100%;
 	margin: 100px;
 }
@@ -48,4 +49,5 @@ img{
 #slogan{
 	color: #BCBEC0;
     font-size: 20px;
-
+    text-align: center;
+}
