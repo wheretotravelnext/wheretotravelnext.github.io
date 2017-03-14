@@ -35,7 +35,7 @@ body{
 	font-size: 14px
 }
 .menu li a:hover{
-	background: src= "images/pointing_hand" no-repeat left center;
+	background: url(http://www.i4at.org/i4atgif/pointing_hand.png) no-repeat left center;
 
 }
 img{
