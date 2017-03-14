@@ -37,7 +37,6 @@ body{
 .menu li a:hover{
 	background: 
 	url("./images/pointing_hand.png") no-repeat left center
-padding: 10px 30px
 }
 img{
 	width: 200px;
@@ -48,6 +47,6 @@ img{
     
 #slogan{
 	color: #BCBEC0;
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
 }
