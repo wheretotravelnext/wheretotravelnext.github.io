@@ -23,8 +23,12 @@ aside {
     border: 1px black solid;
     padding: 20px;
 }
+img{
+	size: auto;
+	padding: auto .8em;
+}
 article {
-background-color: #FF957E;
+background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;	
 }
@@ -33,3 +37,4 @@ footer{
     border: 1px black solid;
     padding: 20px;
 }
+
