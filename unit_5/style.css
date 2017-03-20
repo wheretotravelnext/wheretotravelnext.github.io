@@ -8,7 +8,7 @@ nav{
     border: 1px black solid;
     padding: 20px;
 }
-ul{
+.menu ul{
 	list-style: none;
 	margin:0;
 	padding: 0;
@@ -24,7 +24,7 @@ aside {
     padding: 20px;
 }
 article {
-ackground-color: #E89C6C;
+ackground-color: #FF957E;
     border: 1px black solid;
     padding: 20px;	
 }
