@@ -45,7 +45,7 @@ display: inline-block;
 }
 img{
 	display: block;
-	size: auto;
+	size: 480px;
 	margin: 0 auto;
 	padding: 18px;
 	overflow: auto;
@@ -80,13 +80,13 @@ ul{
 	list-style: none;
 	margin: 0;
 	padding: 0;
-
 }
 li{
 	float: left;
 	width: 50%;
 	height: 32em;
 	text-align: center;
+	display: inline-block;
 }
 footer{
 	background-color: #FF957E;
