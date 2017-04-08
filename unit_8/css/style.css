@@ -46,7 +46,9 @@ li{
 	padding: 20px;
 	width: 80%;
 }
-
+footer{
+	padding:1em;
+}
 .clearfix:after {
     visibility: hidden;
     display: block;
