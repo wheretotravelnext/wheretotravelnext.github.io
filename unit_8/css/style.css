@@ -15,22 +15,31 @@ h1{
 	font-weight: 800;
 	font-size: 2em
 }
-nav{
+p{
+	padding: 1em;
+}
+nav ul {
 	text-decoration: none;
 	color: #BCBEC0;
 	margin: 2em;
 	padding: 20px;
 	display: inline-block;
 }
+ul a:hover{
+	color: black
+	border-bottom:.5em dotted black;
+}
+
 .left{
 	float: left;
 	padding: 20px;
 	width: 20%;
 }
 .right{
+	display: block;
 	float: right;
 	padding: 20px;
-	width: 80%;
+	width: 30%;
 }
 
 .clearfix:after {
