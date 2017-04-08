@@ -13,7 +13,8 @@ h1{
 	border-bottom: 4px dotted #BCBEC0;
 	display: inline-block;
 	font-weight: 800;
-	font-size: 1.5em
+	font-size: 1.5em;
+	padding: 1em;
 }
 p{
 	margin: 1em;
@@ -25,12 +26,30 @@ color: #BCBEC0;
 font-size: 12px;
 padding: .5px;
 display: inline-block;
+text-align: center;
+}
+a{
+	position: relative;
+transition: .3s;
 }
 
-nav ul a:hover{
-	color: black
-	border-bottom:.5em dotted black;
+a::after {
+	position: absolute;
+	bottom: .3em;
+	left: 0;
+	content: '';
+	width: 100%;
+	height: 1px;
+	background-color: #2ecc71;
+	opacity: 0;
+	transition: .3s;
+	}
+
+a:hover::after　{
+	bottom: 0;
+	opacity: 1;
 }
+
 li{
 	padding: .5em;
 }
@@ -40,12 +59,13 @@ li{
 	padding: 20px;
 	width: 20%;
 	border-style: none;
+	height: 50%;
 }
 #right{
 	display: block;
 	float: right;
 	padding: 20px 0 0 0;
-	width: 62%;
+	width: 70%;
 }
 img{
 	width: auto;
@@ -54,6 +74,7 @@ footer{
 	padding:1em;
 	font-size: .5em;
 	text-align: center;
+	height: 50%;
 }
 .clearfix:after {
     visibility: hidden;
