@@ -25,9 +25,9 @@ h2{
 nav{
 	background-color: #E8C66A;
     border: 1px black solid;
-    padding: 20px;
+    padding: 8px;
     float:right;
-    font-size: 1.8em;
+    font-size: 1em;
 }
 nav a{
 text-decoration: none;
@@ -37,7 +37,7 @@ padding: 20px;
 display: inline-block;
 }
 	
-}
+
 .wrapper section{
 	background-color: #FFE2B8;
     border: 1px black solid;
