@@ -22,8 +22,8 @@ p{
 nav a{
 text-decoration: none;
 color: #BCBEC0;
-margin: 1.8em;
-padding: 8px;
+font-size: 12px;
+padding: .5px;
 display: inline-block;
 }
 
@@ -44,11 +44,11 @@ li{
 #right{
 	display: block;
 	float: right;
-	padding: 20px;
+	padding: 20px 0 0 0;
 	width: 62%;
 }
 img{
-	width: 600px;
+	width: auto;
 }
 footer{
 	padding:1em;
