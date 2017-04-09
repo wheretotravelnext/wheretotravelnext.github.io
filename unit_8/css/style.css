@@ -41,7 +41,7 @@ padding: .5em;
 	text-align: center;
 }
 .left-bottom{
-	display: block;
+	display: inline-block;
 	float: left;
 	padding: .5em;
 	width: 300px;
