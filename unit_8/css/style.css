@@ -22,7 +22,7 @@ p{
 }
 .left nav {
 	display: inline-block;
-	font-size: 12px;
+	font-size: 14px;
 text-align: center;
 padding: .5em;
 }
@@ -46,7 +46,8 @@ padding: .5em;
 	text-align: center;
 	font-size: 10px;
     height: 200px;
-    position: relative;
+    position: absolute;
+    bottom: 0;
 }
 
 }
