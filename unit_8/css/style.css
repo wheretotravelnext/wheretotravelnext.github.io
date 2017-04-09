@@ -65,6 +65,8 @@ padding: .5em;
 }
 img{
 	width: auto;
+	border:solid 1px #ccc;
+     padding:4px;
 }
 hr{
 	height: 1px;
