@@ -83,7 +83,8 @@ color: black
 }
 img{
 	border:solid 1px #ccc;
-     padding:4px;    
+     padding:4px;
+     width: auto;    
 }
 
 
