@@ -27,7 +27,9 @@ text-align: center;
 padding: .5em;
 }
 
-
+.left li{
+	padding: 1.5em
+}
 
 .left{
 	display: block;
@@ -35,7 +37,7 @@ padding: .5em;
 	padding: 20px;
 	width: 300px;
 	border-style: none;
-	height:300px;
+	height:500px;
 	text-align: center;
 }
 .left-bottom{
@@ -49,7 +51,9 @@ padding: .5em;
     position: absolute;
     bottom: 0;
 }
-
+.left-bottom{
+	padding: 1.5em;
+}
 }
 #right{
 	display: block;
