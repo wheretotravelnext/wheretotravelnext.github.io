@@ -41,7 +41,7 @@ padding: .5em;
 	text-align: center;
 }
 .left-bottom{
-	display: inline-block;
+	display: block;
 	float: left;
 	padding: .5em;
 	width: 300px;
@@ -52,6 +52,7 @@ padding: .5em;
     bottom: 0;
 }
 .left-bottom li {
+	display: inline-block;
 	padding: 1em;
 	text-align: center;
 }
