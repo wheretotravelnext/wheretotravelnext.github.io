@@ -63,16 +63,14 @@ padding: .5em;
 }
 
 .right{
-	display: block;
 	float: right;
 	width: 80%;
+	margin-top: 20px;
 }
 img{
 	width: 80%;
 	border:solid 1px #ccc;
-     padding:4px;
-     float: right;
-     display: block;
+     padding:4px;    
 }
 
 
