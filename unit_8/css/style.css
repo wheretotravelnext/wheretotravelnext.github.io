@@ -51,7 +51,7 @@ padding: .5em;
     height: 20%;
     position: absolute;
     bottom: 0;
-    border:none;
+    border-style: none;
 }
 .left-bottom li {
 	display: inline-block;
