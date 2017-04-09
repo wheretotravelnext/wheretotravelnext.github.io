@@ -20,20 +20,21 @@ p{
 	margin: 1em;
 	padding: .5em;
 }
-nav a{
+ul.side a{
 text-decoration: none;
 color: #BCBEC0;
 font-size: 12px;
-padding: .5px;
+padding: .8em 2em;
 display: inline-block;
 text-align: center;
+width: 300px;
 }
-a{
+ul.side a{
 	position: relative;
 transition: .3s;
 }
 
-a::after {
+ul.side a::after {
 	position: absolute;
 	bottom: .3em;
 	left: 0;
@@ -45,7 +46,7 @@ a::after {
 	transition: .3s;
 	}
 
-a:hover::after　{
+ul.side a:hover::after　{
 	bottom: 0;
 	opacity: 1;
 }
