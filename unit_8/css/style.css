@@ -64,6 +64,7 @@ padding: .5em;
 
 
 img{
+	display: block;
 	float: right;
 	width: 80%;
 	border:solid 1px #ccc;
