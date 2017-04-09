@@ -65,12 +65,13 @@ padding: .5em;
 .right{
 	display: block;
 	float: right;
-	width: 70%;	
+	width: 80%;
+	margin-top: 10px;
+	margin-left: 10px;	
 }
 img{
 	border:solid 1px #ccc;
-     padding:4px;
-     width: 70%;    
+     padding:4px;    
 }
 
 
