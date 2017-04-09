@@ -41,14 +41,15 @@ padding: .5em;
 	text-align: center;
 }
 .left-bottom{
-	display: block;
+	text-decoration: none;
+	display: inline-block;
 	float: left;
-	padding: 20px;
-	margin: 20px;
+	padding: 1em;
+	margin: 1em;
 	width: 300px;
 	text-align: center;
 	font-size: 10px;
-    height: 200px;
+    height: 300px;
     position: absolute;
     bottom: 0;
 }
