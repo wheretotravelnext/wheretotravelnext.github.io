@@ -44,6 +44,7 @@ padding: .5em;
 	display: block;
 	float: left;
 	padding: 20px;
+	margin: 20px;
 	width: 300px;
 	text-align: center;
 	font-size: 10px;
@@ -51,8 +52,8 @@ padding: .5em;
     position: absolute;
     bottom: 0;
 }
-.left-bottom{
-	padding: 1.5em;
+.left-bottom li {
+	padding: 1em;
 }
 }
 #right{
@@ -65,10 +66,9 @@ img{
 	width: auto;
 }
 footer{
-	padding:1em;
+	padding:2em;
 	font-size: .5em;
 	text-align: center;
-	height: 50%;
 }
 .clearfix:after {
     visibility: hidden;
