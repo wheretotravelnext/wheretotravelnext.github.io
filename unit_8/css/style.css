@@ -46,7 +46,11 @@ padding: .5em;
 	width: 300px;
 	text-align: center;
 	font-size: 10px;
-	height: 30%;
+	border:1px solid #cccccc;
+    height: 200px;
+    position: relative;
+}
+
 }
 #right{
 	display: block;
