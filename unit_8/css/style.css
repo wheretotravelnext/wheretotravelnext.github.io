@@ -20,47 +20,20 @@ p{
 	margin: 1em;
 	padding: .5em;
 }
-ul.side a{
-text-decoration: none;
-color: #BCBEC0;
-font-size: 12px;
-padding: .8em 2em;
-display: inline-block;
-text-align: center;
-width: 300px;
-}
-ul.side a{
-	position: relative;
-transition: .3s;
-}
 
-ul.side a::after {
-	position: absolute;
-	bottom: .3em;
-	left: 0;
-	content: '';
-	width: 100%;
-	height: 1px;
-	background-color: #2ecc71;
-	opacity: 0;
-	transition: .3s;
-	}
-
-ul.side a:hover::after　{
-	bottom: 0;
-	opacity: 1;
-}
 
 li{
 	padding: .5em;
 }
 
 .left{
+	display: block;
 	float: left;
 	padding: 20px;
-	width: 20%;
+	width: 300px;
 	border-style: none;
 	height: 50%;
+	text-align: center;
 }
 #right{
 	display: block;
