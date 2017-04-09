@@ -36,16 +36,16 @@ padding: .5em;
 	float: left;
 	padding: 20px;
 	width: 300px;
-	border-style: none;
 	height:500px;
 	text-align: center;
 	border:solid 1px #ccc;
+	position: relative;
 }
 .left-bottom{
 	display: block;
 	float: left;
 	padding: 4em 20px;
-	width: 300px;
+	width: 200px;
 	text-align: center;
 	font-size: 10px;
     height: 100px;
