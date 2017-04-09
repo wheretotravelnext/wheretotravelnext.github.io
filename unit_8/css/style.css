@@ -20,7 +20,11 @@ p{
 	margin: 1em;
 	padding: .5em;
 }
-
+nav {
+	display: inline-block;
+text-align: center;
+padding: 2em 8em
+}
 
 li{
 	padding: .5em;
