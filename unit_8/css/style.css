@@ -42,6 +42,7 @@ padding: .5em;
 	border-style: none;
 }
 .left-bottom{
+	 border-style: none;
 	display: block;
 	float: left;
 	padding: 4em 20px;
@@ -51,7 +52,6 @@ padding: .5em;
     height: 20%;
     position: absolute;
     bottom: 0;
-    border-style: none;
 }
 .left-bottom li {
 	display: inline-block;
@@ -67,12 +67,12 @@ padding: .5em;
 	float: right;
 	padding: 20px 0 0 0;
 	width: 100%;
+	text-align: center;
 }
 img{
 	width: 100%;
 	border:solid 1px #ccc;
      padding:4px;
-     align-items: center;
 }
 
 
