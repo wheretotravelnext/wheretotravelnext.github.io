@@ -26,9 +26,13 @@ p{
 text-align: center;
 padding: .5em;
 }
+a{
+	text-decoration: none;
+}
 
 .left li{
 	padding: 1em
+
 }
 
 .left{
