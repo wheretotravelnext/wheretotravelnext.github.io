@@ -62,12 +62,9 @@ padding: .5em;
 	padding: 4em 0;
 }
 
-.right{
-	float: right;
-	width: 80%;
-	margin-top: 20px;
-}
+
 img{
+	float: right;
 	width: 80%;
 	border:solid 1px #ccc;
      padding:4px;    
