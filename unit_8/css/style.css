@@ -20,13 +20,14 @@ p{
 	margin: 1em;
 	padding: .5em;
 }
-nav {
+.left nav {
 	display: inline-block;
+	font-size: 12px;
 text-align: center;
-padding: 2em 8em
+padding: .5em;
 }
 
-li{
+.left ul li{
 	padding: .5em;
 }
 
@@ -38,6 +39,14 @@ li{
 	border-style: none;
 	height: 50%;
 	text-align: center;
+}
+.left-bottom{
+	display: block;
+	float: left;padding: 20px;
+	width: 300px;
+	text-align: center;
+	font-size: 10px;
+	height: 30%;
 }
 #right{
 	display: block;
