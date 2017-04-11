@@ -55,13 +55,10 @@ a{
 	 border-style: none;
 	display: block;
 	float: left;
-	padding: 4em 20px;
+	padding: 8em 20px;
 	width: 25%;
 	text-align: center;
-	font-size: 10px;
-    height: 20%;
-    position: absolute;
-    bottom: 0;
+	font-size: 10px;   
 }
 
 .left-bottom li {
@@ -69,9 +66,6 @@ a{
 	padding: 1em;
 	text-align: center;
 	font-color: #BCBEC0
-}
-#copyright{
-	padding: 4em 0;
 }
 
 .left-bottom a:hover{
@@ -81,8 +75,9 @@ color: black
 .right{
 	float:right;
     width: 70%;
-    margin: 1em 0em 0 0em;
+    margin: 4em 0 0 2em;
     background-color: #fff;
+    position: right;
 }
 img{
 	border:solid 1px #ccc;
@@ -91,8 +86,8 @@ img{
 }
 footer{
 	font-size: 10px;
-	padding: 20px;
-	
+	padding: 4em;
+
 }
 
 .clearfix:after {
