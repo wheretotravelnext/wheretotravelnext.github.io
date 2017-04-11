@@ -43,7 +43,7 @@ a{
 	float: left;
 	padding: 20px;
 	width: 25%;
-	height:60%;
+	height:50%;
 	text-align: center;
 	position: relative;
 	border-style: none;
@@ -67,7 +67,8 @@ a{
 	display: inline-block;
 	padding: 1em;
 	text-align: center;
-	font-color: #BCBEC0
+	font-color: #BCBEC0;
+	float: left;
 }
 
 .left-bottom a:hover{
