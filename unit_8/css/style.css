@@ -84,7 +84,8 @@ color: black
 img{
 	border:solid 1px #ccc;
      padding:4px;
-     width: 70%;    
+     width: 70%;
+     position: right;    
 }
 footer{
 	font-size: 10px;
