@@ -57,10 +57,11 @@ a{
 	 border-style: none;
 	display: inline-block;
 	float: left;
-	padding: 8em 20px;
+	padding: 2em;
 	width: 25%;
 	text-align: center;
-	font-size: 10px;   
+	font-size: 10px;
+	position: relative;   
 }
 
 .left-bottom li {
@@ -68,7 +69,6 @@ a{
 	padding: 1em;
 	text-align: center;
 	font-color: #BCBEC0;
-	float: left;
 }
 
 .left-bottom a:hover{
