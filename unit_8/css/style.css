@@ -43,7 +43,7 @@ a{
 	float: left;
 	padding: 20px;
 	width: 25%;
-	height:50%;
+	max-height:50%;
 	text-align: center;
 	position: relative;
 	border-style: none;
