@@ -85,7 +85,7 @@ color: black
 
 .right{
 	float:right;
-    width: 70%;
+    width: 100%%;
     margin: 4em 0 0 2em;
     background-color: #fff;
     position: right;
@@ -93,7 +93,7 @@ color: black
 img{
 	border:solid 1px #ccc;
      padding:4px;
-     width: 70%;
+     width: 100%;
      position: right;    
 }
 
