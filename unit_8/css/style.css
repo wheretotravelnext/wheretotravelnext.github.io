@@ -61,7 +61,9 @@ a{
 	width: 25%;
 	height:20%;
 	text-align: center;
-	font-size: 10px; 
+	font-size: 10px;
+	position: absolute;
+	bottom: 0; 
 }
 
 .left-bottom li {
@@ -69,8 +71,6 @@ a{
 	padding: 1em;
 	text-align: center;
 	font-color: #BCBEC0;
-	position: absolute;
-	bottom: 0; 
 }
 
 .left-bottom a:hover{
