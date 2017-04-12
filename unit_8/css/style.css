@@ -110,5 +110,20 @@ img{
 		float: none;
 		width: 100%;
 	}
+	.left-bottom{
+		float: none;
+		width: 150%;
+	}
 
 }
+@media only screen and (max-width: 650px){
+.left{
+		float: none;
+		width: 100%;
+	}
+	.left-bottom{
+		float: none;
+		width: 150%;
+	}
+}
+
