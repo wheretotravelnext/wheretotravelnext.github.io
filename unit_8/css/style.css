@@ -46,6 +46,7 @@ a{
 	height:50%;
 	text-align: center;
 	border-style: none;
+	position: relative;
 }
 
 .left a:hover{
@@ -70,7 +71,6 @@ a{
 	padding: 1em;
 	text-align: center;
 	font-color: #BCBEC0;
-	float: left;
 }
 
 .left-bottom a:hover{
