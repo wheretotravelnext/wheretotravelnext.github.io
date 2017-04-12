@@ -53,7 +53,7 @@ a{
 }
 
 .left-bottom{
-	display: block;
+	display: inline-block;
 	float: left;
 	padding: 20px;
 	width: 25%;
