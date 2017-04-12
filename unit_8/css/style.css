@@ -43,9 +43,10 @@ a{
 	float: left;
 	padding: 20px;
 	width: 25%;
-	height:50%;
+	height:40%;
 	text-align: center;
 	border-style: none;
+	position: relative;
 }
 
 .left a:hover{
