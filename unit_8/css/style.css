@@ -68,7 +68,7 @@ a{
 
 .left-bottom li {
 	display: inline-block;
-	padding: 1em;
+	padding: 4em;
 	text-align: center;
 	font-color: #BCBEC0;
 }
@@ -103,4 +103,10 @@ img{
     content: " ";
     clear: both;
     height: 0;
+}
+
+@media only screen and (max-width: 720px){
+	.left{
+		width: 100%;
+	}
 }
