@@ -43,10 +43,9 @@ a{
 	float: left;
 	padding: 20px;
 	width: 25%;
-	height:40%;
+	height:50%;
 	text-align: center;
 	border-style: none;
-	position: relative;
 }
 
 .left a:hover{
@@ -54,14 +53,14 @@ a{
 }
 
 .left-bottom{
-	 border-style: none;
 	display: block;
 	float: left;
-	padding: 1em;
+	padding: 20px;
 	width: 25%;
 	height:20%;
 	text-align: center;
 	font-size: 10px;
+	border-style: none;
 	position: absolute;
 	bottom: 0; 
 }
@@ -71,6 +70,7 @@ a{
 	padding: 1em;
 	text-align: center;
 	font-color: #BCBEC0;
+	float: left;
 }
 
 .left-bottom a:hover{
@@ -85,14 +85,14 @@ color: black
 
 .right{
 	float:right;
-    width: 100%;
+    width: 75%;
     margin: 4em 0 0 2em;
     background-color: #fff;
 }
 img{
 	border:solid 1px #ccc;
      padding:4px;
-     width: 100%;  
+     width: 75%;  
 }
 
 
