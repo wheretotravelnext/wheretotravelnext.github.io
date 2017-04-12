@@ -55,9 +55,9 @@ a{
 
 .left-bottom{
 	 border-style: none;
-	display: inline-block;
+	display: block;
 	float: left;
-	padding: 2em;
+	padding: 1em;
 	width: 25%;
 	height:20%;
 	text-align: center;
@@ -85,16 +85,14 @@ color: black
 
 .right{
 	float:right;
-    width: 100%%;
+    width: 100%;
     margin: 4em 0 0 2em;
     background-color: #fff;
-    position: right;
 }
 img{
 	border:solid 1px #ccc;
      padding:4px;
-     width: 100%;
-     position: right;    
+     width: 100%;  
 }
 
 
