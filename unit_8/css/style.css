@@ -104,20 +104,38 @@ img{
     height: 0;
 }
 
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 760px){
 	.left{
 		float: none;
 		width: 100%;
 	}
+	
 .left li{
-	display: inline-block;
+	float:left;
 }
 	.left-bottom{
 		float: none;
 		width: 100%;
 	}
 
+.right img{
+	margin: 1em 5em;
+
 }
 @media only screen and (max-width: 480px){
+.left{
+	width: 100%;
+	padding: 0;
+}
+.left li{
+	float:none;
+	padding: 1em;
+	margin: 5px;
+	display: block;
+	background-color: #F8F9F8;
 
+}
+.left a{
+
+}
 
