@@ -106,22 +106,18 @@ img{
 
 @media only screen and (max-width: 720px){
 	.left{
-		display: inline-block;
 		float: none;
-		width: auto;
+		width: 100%;
 	}
-
+.left li{
+	display: inline-block;
+}
 	.left-bottom{
 		float: none;
-		width: auto;
+		width: 100%;
 	}
 
 }
 @media only screen and (max-width: 480px){
-h1, .left nav{
-display: block;
-text-align: center;
-}
 
-}
 
