@@ -84,15 +84,14 @@ color: black
 }
 
 .right{
-	float:right;
-    width: 70%;
-    margin: 2em 0 0 0;
     background-color: #fff;
 }
 img{
+	float:right
+	display:block;
+	margin:100px auto 0;
 	border:solid 1px #ccc;
-     padding:4px;
-     width: 70%;  
+     width: 70%  
 }
 
 
@@ -114,7 +113,7 @@ img{
 
 	.left-bottom{
 		float: none;
-		width: 150%;
+		width: auto;
 	}
 
 }
