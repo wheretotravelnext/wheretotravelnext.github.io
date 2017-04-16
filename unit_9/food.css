@@ -110,6 +110,7 @@ h1{
 }
 
 .about h2{
+    display: block;
     font-size: 1.5em
     padding: 1em;
     font-weight: 800;
