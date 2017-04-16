@@ -12,7 +12,6 @@ h1{
     font-size: 1.5em;
     padding: 1em;
     margin: 1em;
-    float: none;
     text-align: center;
 }
 
@@ -26,8 +25,8 @@ h1{
 }
 
 .photo-show img { 
-    animation: show 16s infinite;
-    -webkit-animation: show 16s infinite;
+    animation: show 24s infinite;
+    -webkit-animation: show 24s infinite;
     border-radius: 50%;
     height: auto;
     max-width: 100%;
@@ -57,44 +56,44 @@ h1{
 }
 
 .photo-show img:nth-of-type(2) {
-    animation-delay: 2s;
-    -webkit-animation-delay: 2s;
+    animation-delay: 3s;
+    -webkit-animation-delay: 3s;
 }
 
 .photo-show img:nth-of-type(3) {
-    animation-delay: 4s;
-    -webkit-animation-delay: 4s;
-}
-
-.photo-show img:nth-of-type(4) {
     animation-delay: 6s;
     -webkit-animation-delay: 6s;
 }
 
+.photo-show img:nth-of-type(4) {
+    animation-delay: 9s;
+    -webkit-animation-delay: 9s;
+}
+
 .photo-show img:nth-of-type(5) {
-    animation-delay: 8s;
-    -webkit-animation-delay: 8s
+    animation-delay: 12s;
+    -webkit-animation-delay: 12s
 }
 
 .photo-show img:nth-of-type(6) {
-    animation-delay: 10s;
-    -webkit-animation-delay: 10s;
+    animation-delay: 15s;
+    -webkit-animation-delay: 15s;
 }
 
 .photo-show img:nth-of-type(7) {
-    animation-delay: 12s;
-    -webkit-animation-delay: 12s;
+    animation-delay: 18s;
+    -webkit-animation-delay: 18s;
 } 
 .photo-show img:nth-of-type(8) {
-    animation-delay: 14s;
-    -webkit-animation-delay: 14s;
+    animation-delay: 21s;
+    -webkit-animation-delay: 21s;
 }
 
 
 
 .photo-show img {
-    transition: 0.2s;
-    -webkit-transition: 0.2s;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
 }
 
 .photo-show:hover img {
@@ -104,10 +103,8 @@ h1{
 }
 
 .about{
-    display: inline-block;
     margin: 30px auto;
     padding: 1em;
-    float: center;
     text-align: center; 
 }
 h2{
