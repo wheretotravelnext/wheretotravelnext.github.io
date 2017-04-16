@@ -18,7 +18,7 @@ h1{
 
 
 .photo-show { 
-    height: 6000px;
+    height: 600px;
     margin: 30px auto; 
     max-width: 100%;
     position: relative;
@@ -101,4 +101,14 @@ h1{
     animation-play-state: paused;
     -webkit-animation-play-state: paused;
     border-radius: 0;
+}
+
+.about{
+    display: block;
+    margin: 30px auto;
+    padding: 1em;
+    float: center; 
+}
+h2{
+    font-size: 1.5em
 }
