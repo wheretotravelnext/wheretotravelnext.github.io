@@ -104,11 +104,13 @@ h1{
 }
 
 .about{
-    display: block;
+    display: inline-block;
     margin: 30px auto;
     padding: 1em;
-    float: center; 
+    float: center;
+    text-align: center; 
 }
 h2{
     font-size: 1.5em
+    padding: 1em;
 }
