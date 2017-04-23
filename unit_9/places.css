@@ -19,6 +19,7 @@ h1{
 
 #nav li{
     display: inline-block;
+    list-style: none;
     float: none;
     padding: 10px;
     text-align: center;
