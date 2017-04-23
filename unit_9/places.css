@@ -15,14 +15,14 @@ h1{
     float: left;
 }
 
-#nav ul{
-    margin: 2em;
+#nav {
+    margin: 1em;
 }
 
-#nav li{
+#nav a{
     display: inline-block;
     float: right;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     border-style: none;
     font-size: .75em;
