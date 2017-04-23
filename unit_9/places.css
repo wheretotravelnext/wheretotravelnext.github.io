@@ -16,21 +16,21 @@ h1{
 }
 #nav li{
     display: inline-block;
-    float: none;
+    float: center;
     padding: 20px;
     text-align: center;
     border-style: none;
-    font-size: .5em;
+    font-size: .75em;
 }
 
-#nav li a: hover{
+#nav a: hover{
     border-bottom: 4px dotted green;
 }
 
 
 .photo-show { 
     height: 600px;
-    margin: 200px auto 0px; 
+    margin: 100px auto 0px; 
     max-width: 100%;
     position: relative;
     width: 600px; 
