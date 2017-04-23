@@ -23,6 +23,10 @@ h1{
     font-size: .5em;
 }
 
+#nav li a: hover{
+    border-bottom: 4px dotted green;
+}
+
 
 .photo-show { 
     height: 600px;
