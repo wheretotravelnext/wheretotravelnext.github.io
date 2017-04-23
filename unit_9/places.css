@@ -21,7 +21,7 @@ h1{
 
 #nav a{
     display: inline-block;
-    float: right;
+    float: none;
     padding: 10px;
     text-align: center;
     border-style: none;
