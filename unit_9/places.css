@@ -20,12 +20,13 @@ h1{
     padding: 20px;
     text-align: center;
     border-style: none;
+    font-size: .75em;
 }
 
 
 .photo-show { 
     height: 600px;
-    margin: 30px auto 0px; 
+    margin: 200px auto 0px; 
     max-width: 100%;
     position: relative;
     width: 600px; 
