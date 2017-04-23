@@ -3,6 +3,17 @@ body{
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
 }
+#nav{
+    display: inline-block;
+    float: none;
+    padding: 20px;
+    width: 25%;
+    height:50%;
+    text-align: center;
+    border-style: none;
+    position: relative;
+}
+}
 
 h1{
     text-transform: lowercase;
