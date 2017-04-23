@@ -17,6 +17,7 @@ h1{
 
 #nav {
     margin: 1em;
+    border-style: none;
 }
 
 #nav a{
@@ -24,7 +25,6 @@ h1{
     float: none;
     padding: 10px;
     text-align: center;
-    border-style: none;
     font-size: .75em;
 }
 
