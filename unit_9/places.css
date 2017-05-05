@@ -43,6 +43,7 @@ h1{
     max-width: 100%;
     position: relative;
     width: 600px; 
+    padding: 20em 0 0;
 }
 
 .photo-show img { 
@@ -52,7 +53,7 @@ h1{
     height: auto;
     max-width: 100%;
     opacity: 0;
-    position: relative; 
+    position: absolute; 
 }
 
 
