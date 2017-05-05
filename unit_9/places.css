@@ -31,7 +31,8 @@ h1{
     float: right;
 }
 
-#nav a: hover{
+#nav li a: hover{
+    color: green;
     border-bottom: 4px dotted green;
 }
 
@@ -51,7 +52,7 @@ h1{
     height: auto;
     max-width: 100%;
     opacity: 0;
-    position: absolute; 
+    position: relative; 
 }
 
 
