@@ -21,6 +21,26 @@ h2 {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+
+#nav li{
+    display: inline-block;
+    list-style: none;
+    float: none;
+    padding: 10px;
+    text-align: center;
+    font-size: .75em;
+}
+#nav {
+    margin: 1em;
+    border-style: none;
+    float: right;
+}
+
+#nav li a: hover{
+    color: green;
+    border-bottom: 4px dotted green;
+}
+
 #me{
   height: 200px;
     margin: 30px auto 10px; 
