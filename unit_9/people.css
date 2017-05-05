@@ -15,14 +15,35 @@ h1{
     text-align: center;
 }
 
+#nav li{
+    display: inline-block;
+    list-style: none;
+    float: none;
+    padding: 10px;
+    text-align: center;
+    font-size: .75em;
+}
+#nav {
+    margin: 1em;
+    border-style: none;
+    float: right;
+}
+
+#nav li a: hover{
+    color: green;
+    border-bottom: 4px dotted green;
+}
+
 
 .photo-show { 
     height: 600px;
-    margin: 30px auto 10px; 
+    margin: 100px auto 0px; 
     max-width: 100%;
     position: relative;
     width: 600px; 
+    padding: 5em 0 0;
 }
+
 
 .photo-show img { 
     animation: show 24s infinite;
